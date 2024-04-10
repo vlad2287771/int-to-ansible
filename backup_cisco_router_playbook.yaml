@@ -1,4 +1,4 @@
----
+
 - name: AUTOMATIC BACKUP OF RUNNING-CONFIG
   hosts: R1
   gather_facts: false
